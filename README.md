@@ -2,7 +2,8 @@
 - 👀 I’m interested in software developmnent 
 - 🌱 I’m currently learning data structures and algorithms and web development
 - 💞️ I’m looking to collaborate on projects 
-- 📫 How to reach me :- disocrd :- A Suspicious Meow!?#4080
+- 📫 How to reach me :- disocrd :- A Suspicious Meow!?#4080 
+                         instagram :- utkarsh575_
 
 <!---
 Utkarsh575/Utkarsh575 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
