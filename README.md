@@ -4,8 +4,10 @@
 - 👀 I’m interested in software developmnent 
 - 🌱 I’m currently learning data structures and algorithms , web development
 - 💞️ I’m looking to collaborate on projects 
-- 📫 How to reach me :- disocrd :- A Suspicious Meow!?#4080 
-                         instagram :- utkarsh575_
+- 📫 How to reach me :- 
+- ✅  utkarsh575@yahoo.com
+- ✅  disocrd :- A Suspicious Meow!?#4080 
+- ✅  instagram :- utkarsh575_
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=utkarsh575&theme=radical)
 
