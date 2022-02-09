@@ -10,7 +10,7 @@
 - ✅  instagram :- utkarsh575_
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=utkarsh575&theme=radical)
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarsh575" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarsh575" />
 
 <!---
 Utkarsh575/Utkarsh575 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
