@@ -9,9 +9,9 @@
 - ✅  disocrd :- A Suspicious Meow!?#4080 
 - ✅  instagram :- utkarsh575_
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=utkarsh575&theme=ayu-mirage)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarsh575" />
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarsh575" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=utkarsh575&theme=ayu-mirage)
 
 
 <!---
