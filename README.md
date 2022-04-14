@@ -4,8 +4,15 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=poppins&size=23&color=F714ED&lines=A+Passionate+FullStack+Developer;A+Passionate+Designer;Associate+Technical+Lead+at+SRMKZILLA)](https://git.io/typing-svg)
 </h1>
+  
+<h2 align="center">Github Statistics </h2>
 
-  ![Utkarsh575's github activity graph](https://activity-graph.herokuapp.com/graph?username=utkarsh575&theme=react-dark)
+|💻Most Used Languages and Stats 📈|🎯 Github Streaks and Trophies 🏆|
+|-----------------------------------|----------------------------------|
+|[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=utkarsh575&show_icons=true&theme=midnight-purple&layout=compact&hide_title=true)](https://github.com/utkarsh575)|[![Utkarsh575's GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=utkarsh575&theme=midnight-purple&hide_border=true)](https://github.com/utkarsh575)
+|[![Utkarsh575's GitHub stats](https://github-readme-stats.vercel.app/api?username=utkarsh575&show_icons=true&theme=ayu-mirage&hide_title=true)](https://github.com/utkarsh575)|<h1 >Visits: </h1> ![Visitor Count](https://profile-counter.glitch.me/utkarsh575/count.svg)
+
+
 
 <h3 align="left">Connect with me:</h3>
 
@@ -59,16 +66,10 @@
 ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
-<h2 align="center">Github Statistics </h2>
-
-|💻Most Used Languages and Stats 📈|🎯 Github Streaks and Trophies 🏆|
-|-----------------------------------|----------------------------------|
-|[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=utkarsh575&show_icons=true&theme=midnight-purple&layout=compact&hide_title=true)](https://github.com/utkarsh575)|[![Utkarsh575's GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=utkarsh575&theme=midnight-purple&hide_border=true)](https://github.com/utkarsh575)
-|[![Utkarsh575's GitHub stats](https://github-readme-stats.vercel.app/api?username=utkarsh575&show_icons=true&theme=ayu-mirage&hide_title=true)](https://github.com/utkarsh575)|
 </p>
-<h1 >Visits: </h1> 
 
-![Visitor Count](https://profile-counter.glitch.me/utkarsh575/count.svg)
+![Utkarsh575's github activity graph](https://activity-graph.herokuapp.com/graph?username=utkarsh575&theme=react-dark)
+
 
 
 - 👀 I’m interested in software developmnent 
