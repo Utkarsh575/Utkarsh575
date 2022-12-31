@@ -17,9 +17,7 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-<a href="mailto:utkarshlohani575@gmail.com?'Reching out to you'='Hi, I want to enquire about...'" rel="noopener" target="_blank"><img align="center" src="https://img.icons8.com/bubbles/50/000000/apple-mail.png" alt="Utkarsh575" height="40" width="40" /></fa>
-</a>
-
+  <a href="https://linkedin.com/in/utkarsh575" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="utkarsh575" height="30" width="40" /></a>
   <a href="https://twitter.com/utkarsh575" target="blank"
     ><img
       align="center"
@@ -69,13 +67,13 @@
  -->
 </p>
 
-![Utkarsh575's github activity graph](https://activity-graph.herokuapp.com/graph?username=utkarsh575&theme=react-dark)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=utkarsh575&bg_color=000000&color=ffffff&line=00d4f0&point=55c3bc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
-- 👀 I’m interested in software developmnent 
-- 🌱 I’m currently learning data structures and algorithms , web development
-- 💞️ I’m looking to collaborate on projects 
+- 👀 I’m interested in software developmnent and UI/UX 
+- 🌱 I’m currently learning Data structures and algorithms , web development
+- 💞️ I’m looking to collaborate on projects and Hackathons 
 - 📫 How to reach me :- 
 - ✅  utkarsh575@yahoo.com
 - ✅  disocrd :- A Suspicious Meow!?#4080 
