@@ -11,6 +11,7 @@
 |-----------------------------------|----------------------------------|
 |[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=utkarsh575&show_icons=true&theme=midnight-purple&layout=compact&hide_title=true)](https://github.com/utkarsh575)|[![GitHub Streak](https://streak-stats.demolab.com?user=utkarsh575&theme=tokyonight)](https://git.io/streak-stats)
 
+
 |[![Utkarsh575's GitHub stats](https://github-readme-stats.vercel.app/api?username=utkarsh575&show_icons=true&theme=ayu-mirage&hide_title=true)](https://github.com/utkarsh575)|<h1 >Visits: </h1> ![Visitor Count](https://profile-counter.glitch.me/utkarsh575/count.svg)
 
 
