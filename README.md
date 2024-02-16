@@ -69,8 +69,7 @@
  -->
 </p>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=utkarsh575&bg_color=000000&color=ffffff&line=00d4f0&point=55c3bc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=utkarsh575&bg_color=000000&color=ffffff&line=9e4c98&point=2e2d2d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 - 👀 I’m interested in software developmnent and UI/UX 
